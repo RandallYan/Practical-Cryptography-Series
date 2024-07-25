@@ -25,7 +25,7 @@ In this repository, you will find a structured series of articles that cover a r
 ### Chapter 3: Hash Functions
 - Article 6: One-Way Hash Functions: Ensuring Data Integrity
 - Article 7: Setting Appropriate Security Levels
-- Article 8: Choosing the Right Hash Algorithm
+- Article 8: Hash Algorithm Selection Guide: Security, Performance, and Use Cases
 - Article 9: Preventing Length Extension Attacks
 - Article 10: Practical Applications of Hash Functions
 
